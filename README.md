@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csscientist
 - 👀 I’m interested in DevOps or SREngineering
-- 🌱 I’m currently learning DevOps concepts
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on DevOps concepts/projects
+- 💞️ I’m looking to collaborate on Kubernetes,Terraform and Ansible
 - 📫 How to reach me ...
 
 <!---
